@@ -22,7 +22,7 @@
   },
   "U8VXDR4I2OMS": {
     "expiry": 1789132928,
-    "active": true,
+    "active": false,
     "device": null,
     "created": 1789046528,
     "duration_days": 1
