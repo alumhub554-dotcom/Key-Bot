@@ -1,0 +1,30 @@
+{
+  "TEST-1D": {
+    "expiry": 1789132541,
+    "active": true,
+    "device": null,
+    "created": 1789046141,
+    "duration_days": 1
+  },
+  "18IAS6ZPYB5N": {
+    "expiry": 1789132545,
+    "active": true,
+    "device": null,
+    "created": 1789046145,
+    "duration_days": 1
+  },
+  "TLHPZ5I62753": {
+    "expiry": 1789132853,
+    "active": true,
+    "device": null,
+    "created": 1789046453,
+    "duration_days": 1
+  },
+  "U8VXDR4I2OMS": {
+    "expiry": 1789132928,
+    "active": true,
+    "device": null,
+    "created": 1789046528,
+    "duration_days": 1
+  }
+}
