@@ -1,9 +1,9 @@
 {
-  "DHNGWGSZWJE5": {
-    "expiry": 1789133060,
+  "TEST-1D": {
+    "expiry": 1789133195,
     "active": true,
     "device": null,
-    "created": 1789046660,
+    "created": 1789046795,
     "duration_days": 1
   }
 }
