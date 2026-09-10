@@ -1,9 +1,9 @@
 {
-  "TEST-1D": {
-    "expiry": 1789133195,
+  "TEST-3D": {
+    "expiry": 1789314737,
     "active": true,
     "device": null,
-    "created": 1789046795,
-    "duration_days": 1
+    "created": 1789055537,
+    "duration_days": 3
   }
 }
